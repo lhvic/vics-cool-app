@@ -1,0 +1,33 @@
+{
+  "id": "16463b54-6d59-4cca-aa27-9d4480c52502",
+  "tasks": [],
+  "name": "Test",
+  "scaffoldType": "WEB_SERVER",
+  "gitHubConfig": {
+    "repoName": "vics-cool-app",
+    "repoId": 143224191,
+    "username": "lhvic",
+    "_finished": true
+  },
+  "scaffoldConfig": {
+    "scaffoldingPath": "/src",
+    "devServer": "http://localhost:3004/api",
+    "subscriptionType": "open-source",
+    "subscriptionStatus": "expired",
+    "_finished": true
+  },
+  "issues": [
+    {
+      "id": "060e9963-5373-4a0f-b8a3-a90d5727e746",
+      "route": "/dashboard/issues/060e9963-5373-4a0f-b8a3-a90d5727e746",
+      "ref": "settings.invalid-scaffold-config",
+      "name": "Invalid Scaffold Config",
+      "link": "/settings",
+      "message": "Subscription does not have a valid expiration date! Please renew your subscription!",
+      "sectionRef": "project.scaffoldConfig",
+      "metadata": {
+        "status": "no-expiration-date"
+      }
+    }
+  ]
+}
